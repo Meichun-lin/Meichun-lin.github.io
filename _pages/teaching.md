@@ -1,12 +1,24 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:  
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Instructor, UBC Sauder
 
-Organize your courses by years, topics, or universities, however you like!
+* COMM 290 - Quantitative Decision Making
+    * Teaching Evaluation: **4.6/5.0** (for the question "I would recommend this course to other students.") 
+    * Enrollment: 31
+
+
+#### Teaching Assistant, UBC Sauder
+* COMM 290 - Quantitative Decision Making (Prof. Greg Werker and Prof. Tim Huh, Fall 2019, Fall 2020, Fall 2022)
+   * Delivered Optional Help Sessions and held office hours. 
+   * Class size of around 900 students each term.
+* BASC 550 - Operations (Prof. Tim Huh, Fall 2018)
+* COMM 204 - Logistics and Operations Management (Prof. Tim Huh, Fall 2018)
+
+ 
