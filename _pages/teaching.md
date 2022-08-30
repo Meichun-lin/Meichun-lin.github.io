@@ -9,7 +9,7 @@ nav_order: 2
 
 #### Instructor, UBC Sauder
 
-* COMM 290 - Quantitative Decision Making
+* COMM 290 - Quantitative Decision Making (Summer 2022)
     * Teaching Evaluation: **4.6/5.0** (for the question "I would recommend this course to other students.") 
     * Enrollment: 31
 

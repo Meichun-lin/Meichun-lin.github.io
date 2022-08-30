@@ -30,8 +30,8 @@ nav_order: 1
 6.  Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. Risk-Averse Dynamic Pricing and Demand Learning. *Soon to be Resubmitted*.  
   
 
-
-#### Talks
+ 
+#### Conference Talks
  * Uncertain Search with Knowledge Transfer.
      * MSOM Conference, Munich, Germany, June 2022.
  * Risk-Averse Dynamic Pricing and Demand Learning.
