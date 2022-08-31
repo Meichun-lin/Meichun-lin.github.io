@@ -28,7 +28,8 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my site! I am a fifth-year Ph.D. candidate at Sauder School of Business, University of British Columbia. My advisors are Prof. [Tim Huh](https://www.sauder.ubc.ca/people/tim-huh) and Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). 
 
-My research focuses on data-driven decision making with applications in inventory management, dynamic pricing, and uncertain search. I am particularly interested in (i) developing near-optimal algorithms that balance the exploration-exploitation trade-offs and (ii) analyzing optimal online decisions using tools such as dynamic programming.
+My research focuses on data-driven decision making with applications in inventory management, dynamic pricing, and uncertain search. I am particularly interested in (i) developing and analyzing online algorithms that achieve provably good performance and (ii) studying optimal decisions that address 
+the exploration-exploitation trade-offs.
 
 Prior to my Ph.D., I received my bachelor degree in Mathematics and Applied Mathematics from Shanghai Jiao Tong University. 
 
