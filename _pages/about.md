@@ -28,12 +28,11 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to my site! I am a fifth-year Ph.D. candidate at Sauder School of Business, University of British Columbia. My advisors are Prof. [Tim Huh](https://www.sauder.ubc.ca/people/tim-huh) and Prof. [Michael Jong Kim](https://www.sauder.ubc.ca/people/michael-jong-kim). 
 
-My research focuses on data-driven decision making with applications in inventory management, dynamic pricing, and uncertain search. I am particularly interested in (i) developing and analyzing online algorithms that achieve provably good performance and (ii) studying optimal decisions that address 
-the exploration-exploitation trade-offs.
+My research focuses on data-driven decision making with applications in dynamic pricing, inventory management, and uncertain search. I am particularly interested in (i) developing and analyzing online algorithms that achieve provably good performance and (ii) modeling and solving sequential decision making problems that involve the exploration-exploitation trade-offs. 
 
 Prior to my Ph.D., I received my bachelor degree in Mathematics and Applied Mathematics from Shanghai Jiao Tong University. 
 
-My CV can be found [here](https://www.dropbox.com/s/4k5bigvovesan7n/CV.pdf?dl=0). Here is a link to my [ORCID](https://orcid.org/0000-0003-2027-0166).
+My CV can be found [here](https://www.dropbox.com/s/z925gmr4s5iubhf/Meichun_CV.pdf?dl=0). Here is a link to my [ORCID](https://orcid.org/0000-0003-2027-0166).
 
 **I am on the 2022-2023 academic job market.**
 

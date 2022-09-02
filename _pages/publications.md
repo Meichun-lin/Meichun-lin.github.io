@@ -17,17 +17,19 @@ nav_order: 1
 2.  New Product Dynamic Pricing: The Value of Transfer Learning, with Woonghee T. Huh.  
       *Manuscript in Preparation*. 
 
-3. **Meichun Lin**, Woonghee T. Huh, Harish Krishnan, Joline Uichanco. Data-Driven Newsvendor Problem: Performance of the Sample Average Approximation. __*Operations Research*__, 2022, 70(4): 1996-2012.   
+3.  Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. Risk-Averse Dynamic Pricing and Demand Learning. *Soon to be Resubmitted*.  
+
+4. **Meichun Lin**, Woonghee T. Huh, Harish Krishnan, Joline Uichanco. [Data-Driven Newsvendor Problem: Performance of the Sample Average Approximation.](https://doi.org/10.1287/opre.2022.2307) __*Operations Research*__, 2022, 70(4): 1996-2012.   
   
 
-4.  Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. Bayesian Dithering for Learning: Asymptotically Optimal Policies in Dynamic Pricing. ***Production and Operations Management***, 2022.  
+5.  Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. [Bayesian Dithering for Learning: Asymptotically Optimal Policies in Dynamic Pricing.](https://doi.org/10.1111/poms.13786) ***Production and Operations Management***, 2022.  
 
 
-5.  **Meichun Lin**, Woonghee T. Huh, Guohua Wan. Multi-Period Lot-Sizing with Supplier Selection: Structural Results, Complexity and Algorithm. ***Operations Research Letters***, 2021, 49(4): 602-609.
+6.  **Meichun Lin**, Woonghee T. Huh, Guohua Wan. [Multi-Period Lot-Sizing with Supplier Selection: Structural Results, Complexity and Algorithm.](https://doi.org/10.1016/j.orl.2021.05.013) ***Operations Research Letters***, 2021, 49(4): 602-609.
   * Finalist, INFORMS Undergraduate Operations Research Prize, 2018.
   
 
-6.  Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. Risk-Averse Dynamic Pricing and Demand Learning. *Soon to be Resubmitted*.  
+  
   
 
  
@@ -35,12 +37,12 @@ nav_order: 1
  * Uncertain Search with Knowledge Transfer.
      * MSOM Conference, Munich, Germany, June 2022.
  * Risk-Averse Dynamic Pricing and Demand Learning.
-     * INFORMS Annual Meeting, Oct. 2021. 
+     * INFORMS Annual Meeting, Virtual, Oct. 2021. 
  * Data-Driven Newsvendor Problem: Performance of the Sample Average Approximation.
-     * POMS 31st Annual	Conference, Apr. 2021. 
+     * POMS 31st Annual	Conference, Virtual, Apr. 2021. 
  * Bayesian Dithering for Learning: Asymptotically Optimal Policies in Dynamic Pricing.
-     * MSOM Conference, June 2021.
-     * INFORMS Annual Meeting, Nov. 2020.  
+     * MSOM Conference, Virtual, June 2021.
+     * INFORMS Annual Meeting, Virtual, Nov. 2020.  
  * Multi-Period Lot-Sizing with Supplier Selection: Structural Results, Complexity and Algorithm.
      * INFORMS Annual Meeting, Phoenix, Nov. 2018.
  
