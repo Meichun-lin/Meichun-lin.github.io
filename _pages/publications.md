@@ -8,28 +8,34 @@ nav: true
 nav_order: 1 
 --- 
 
-My research focuses on data-driven decision making with applications in dynamic pricing, inventory management, and uncertain search. I am particularly interested in (i) developing and analyzing online algorithms that achieve provably good performance and (ii) modeling and solving sequential decision making problems that involve the exploration-exploitation trade-offs.  
+My research focuses on data-driven decision making with applications in dynamic pricing, inventory management, and uncertain search. I am particularly interested in 
+* developing and analyzing online algorithms that achieve provably good performance; 
+* modeling and solving sequential decision making problems that involve the exploration-exploitation trade-offs.
+
+<hr>
 
 #### Working Papers  
 
 1.  Uncertain Search with Knowledge Transfer, with Woonghee T. Huh, Michael J. Kim.   
      *Soon to be Submitted to Management Science*.
       
-2. Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. Risk-Averse Dynamic Pricing and Demand Learning.
- *Soon to be Resubmitted to Manufacturing & Service Operations Management*.  
+2.  Woonghee T. Huh, Michael J. Kim, **Meichun Lin**. Risk-Averse Dynamic Pricing and Demand Learning.   
+     *To be Resubmitted*.    
 
 3.  New Product Dynamic Pricing: The Value of Transfer Learning, with Woonghee T. Huh.  
       *Manuscript in Preparation*.
 
+<hr>
 
 #### Publications 
 1. **Meichun Lin**, Woonghee T. Huh, Harish Krishnan, Joline Uichanco (2022). [Data-Driven Newsvendor Problem: Performance of the Sample Average Approximation.](https://doi.org/10.1287/opre.2022.2307)  *Operations Research*, 70(4): 1996-2012. 
 
 2. Woonghee T. Huh, Michael J. Kim, **Meichun Lin** (forthcoming). [Bayesian Dithering for Learning: Asymptotically Optimal Policies in Dynamic Pricing.](https://doi.org/10.1111/poms.13786)  *Production and Operations Management*.  
 
-3. **Meichun Lin**, Woonghee T. Huh, Guohua Wan (2021). [Multi-Period Lot-Sizing with Supplier Selection: Structural Results, Complexity and Algorithm.](https://doi.org/10.1016/j.orl.2021.05.013) *Operations Research Letters*, 49(4): 602-609.
-  * Finalist, INFORMS Undergraduate Operations Research Prize, 2018
+3. **Meichun Lin**, Woonghee T. Huh, Guohua Wan (2021). [Multi-Period Lot-Sizing with Supplier Selection: Structural Results, Complexity and Algorithm.](https://doi.org/10.1016/j.orl.2021.05.013) *Operations Research Letters*, 49(4): 602-609.   
+ * Finalist, INFORMS Undergraduate Operations Research Prize, 2018
 
+<hr>
  
 #### Conference Talks 
  * Uncertain Search with Knowledge Transfer.

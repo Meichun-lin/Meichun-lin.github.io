@@ -44,7 +44,7 @@ My CV can be found [here](https://www.dropbox.com/s/7aky51z94v1zvtq/MeichunLin_C
 #### News
 
 * I will present my work "Uncertain Search with Knowledge Transfer" at the 2022 INFORMS Annual Meeting.
-    * Session: SE67. Pricing and Learning (Session Chair: Yeqing Zhou)
+    * Session: [SE67. Pricing and Learning](https://www.abstractsonline.com/pp8/?__hstc=194041586.62cddd3cb35313a877c2e495c65188ab.1661465936108.1662179697222.1662218375917.15&__hssc=194041586.3.1662218375917&__hsfp=3814437345&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/session/756) (Session Chair: Yeqing Zhou)
     * Time: October 16, 2022, 5:00 PM - 6:15 PM
     * Location: M - Indiana D
 
